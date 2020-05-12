@@ -13,8 +13,8 @@ The actual data included Date, Open, High, Low, Close, Volume and adjusted value
 Stock Trading Helper Application:
 My application provide advisory information about stocks on specific period, those information included:
 - Graphs that shows historical data about the price of each stock.
- - Actual Historical traded data on "Open price" , "Highest price" , "Lowest price", "Close price", "Volume", "Adjusted".
- - Graph Volume of traded stock.
+- Actual Historical traded data on "Open price" , "Highest price" , "Lowest price", "Close price", "Volume", "Adjusted".
+- Graph Volume of traded stock.
  
  To run this R Shiny application you need to install bellow packages:
 library(shiny)

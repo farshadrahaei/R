@@ -1,5 +1,4 @@
-# R
-Introduction
+# Stock Trading Helper App
 
 Stock trader's goal is to increase the profit and avoid loos on their stock trading, making decision on when to buy and sell are very important as sometime a minute difference on a trade could cause less gain or even more loss of money. 
 Using stock data in the past and compare it with current market, they can make a better decision on their trades to potentially gain more and loos less. 

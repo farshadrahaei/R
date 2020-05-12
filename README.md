@@ -17,11 +17,11 @@ My application provide advisory information about stocks on specific period, tho
 - Graph Volume of traded stock.
  
  To run this R Shiny application you need to install bellow packages:
-library(shiny)
-library(quantmod)
-library(xts)
-library(zoo)
-library(TTR)
-library(shinyjs)
+- library(shiny)
+- library(quantmod)
+- library(xts)
+- library(zoo)
+- library(TTR)
+- library(shinyjs)
 
 

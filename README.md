@@ -16,5 +16,12 @@ My application provide advisory information about stocks on specific period, tho
  - Actual Historical traded data on "Open price" , "Highest price" , "Lowest price", "Close price", "Volume", "Adjusted".
  - Graph Volume of traded stock.
  
+ To run this R Shiny application you need to install bellow packages:
+library(shiny)
+library(quantmod)
+library(xts)
+library(zoo)
+library(TTR)
+library(shinyjs)
 
 

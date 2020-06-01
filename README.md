@@ -23,10 +23,17 @@ My application provide advisory information about stocks on specific period, tho
 - library(TTR)
 - library(shinyjs)
 
+
 References:
+
 https://www.rdocumentation.org/packages/quantmod/versions/0.4.17/topics/getSymbols.yahoo
+
 https://www.quantmod.com/examples/charting/
+
 https://cran.r-project.org/web/packages/quantmod/quantmod.pdf
+
 https://rdrr.io/cran/shinyjs/man/visibilityFuncs.html
+
 https://shiny.rstudio.com/reference/shiny/latest/numericInput.html
+
 https://public.tableau.com/profile/mei.eisenbach#!/vizhome/YahooFinance-GOOGdata/Sheet1
